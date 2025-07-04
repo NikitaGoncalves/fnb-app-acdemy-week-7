@@ -1,0 +1,1 @@
+# Django app entry point placeholder
